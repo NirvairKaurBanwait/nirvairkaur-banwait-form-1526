@@ -65,10 +65,6 @@ textarea {
   font-family: var(--body);
 }
 
-input[type="submit"]{
-  font-size:2rem;
-}
-
 #button{
   color:white;
   background-color: var(--col3);
