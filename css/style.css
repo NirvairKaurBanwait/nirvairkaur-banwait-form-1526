@@ -1,12 +1,3 @@
-/* The max-width of the main content is 50 rem. If the window is greater than 50 rem, the main content stays positioned in the middle of view-port.
-Font-stack
-Arial, Helvetica, Helvetica Neue, sans-serif
-Font-size for entire web-page excluding <legend> tag is 1rem. Font-size for <legend> is 2rem.
-Smart-phone - up to 25rem
-Tablet - between 25rem and 40rem
-Desktop - between 40rem and 50rem | max-width: 50rem
-*/
-
 /* COLORS
 #DDD - dark grey
 #F5F5F5 - light grey
