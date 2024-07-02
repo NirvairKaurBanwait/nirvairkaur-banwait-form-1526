@@ -118,7 +118,7 @@ textarea {
   }
 }
 
-@media only screen and (min-width: 40rem){
+@media (min-width: 40rem){
   body{
     max-width: 50rem;
     margin-left: auto;
