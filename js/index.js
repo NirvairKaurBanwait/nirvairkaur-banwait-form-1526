@@ -8,7 +8,7 @@ let mess = document.getElementById('message');
 let pattern = /^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/ ; 
 
 // Event handler to validate form
-function formValidation(){
+function formValidation(event){
   event.preventDefault();
 
   // Empty buckets for user inputs and errors
